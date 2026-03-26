@@ -1,0 +1,2 @@
+# Ignore les dossiers de modules (trop lourds)
+node_modules/
